@@ -3,6 +3,8 @@ package com.yunhao.Algorithms.Algorithms_210;
 import java.util.ArrayList;
 
 class Solution {
+	//有向图的输出拓扑序
+	//dfs也可以解，先输出所有孩子再输出父亲
 	ArrayList<Integer>[] graph;
 	int cursor = 0;
 	int[] degree;

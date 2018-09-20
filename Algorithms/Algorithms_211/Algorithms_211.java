@@ -4,6 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 class WordDictionary {
+	//×ÖµäÊ÷£¬bfs²éÕÒ
 	class node{
 		node[] nos;
 		boolean edd_flag;

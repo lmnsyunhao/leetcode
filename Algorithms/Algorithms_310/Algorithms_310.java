@@ -3,8 +3,8 @@ package com.yunhao.Algorithms.Algorithms_310;
 import java.util.ArrayList;
 import java.util.List;
 
-//树的直径上中间的两个点或者一个点
 class Solution {
+	//树的直径上中间的两个点或者一个点
 	int mx;
 	int mxidx;
 	int[] trace;

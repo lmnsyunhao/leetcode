@@ -1,6 +1,7 @@
 package com.yunhao.Algorithms.Algorithms_313;
 
 class Solution {
+	//dp˼ά
 	int[] ugly;
     public int nthSuperUglyNumber(int n, int[] primes) {
     	int[] cursor = new int[primes.length];

@@ -1,6 +1,7 @@
 package com.yunhao.Algorithms.Algorithms_307;
 
 class NumArray {
+	//Ê÷×´Êý×é
 	
 	int[] src;
 	int[] tree;

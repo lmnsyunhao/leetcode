@@ -1,6 +1,7 @@
 package com.yunhao.Algorithms.Algorithms_309;
 
 class Solution {
+	//dp
     public int maxProfit(int[] prices) {
     	if(prices.length == 0) 
     		return 0;
